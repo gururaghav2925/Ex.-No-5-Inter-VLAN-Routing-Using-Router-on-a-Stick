@@ -95,15 +95,20 @@ ________________________________________
 
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/a4777bd2-5a42-4691-b1a7-97a6f7a17c87" />
 
-•	Successful ping between PCs in different VLANs after routing<br>
+•	Successful ping between PCs in same VLANs <br>
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/25ed593c-19f1-442e-ac9b-e9580abbf97c" />
+
+•	Successful ping between PCs in different VLANs <br>
+
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/1efcb8a7-09bd-42d0-a319-6879f6b770eb" />
 
 
-
-•	Successful ping between PCs in the same VLAN<br>
+•	Successful ping between PCs in the same VLAN after routing<br>
 
 <img width="1917" height="1079" alt="Screenshot 2026-02-04 082556" src="https://github.com/user-attachments/assets/d69e3019-3a5f-4a7c-b657-e3c0d329e902" />
 
-•	Fail ping between PCs in the different VLAN<br>
+•	Fail ping between PCs in the different VLAN after routing<br>
 
 <img width="1919" height="1077" alt="Screenshot 2026-02-04 082406" src="https://github.com/user-attachments/assets/06fc7ea4-92a6-4788-8e93-a9402f83ca66" />
 
