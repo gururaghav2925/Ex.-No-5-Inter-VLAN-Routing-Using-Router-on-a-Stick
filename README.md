@@ -96,6 +96,9 @@ ________________________________________
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/a4777bd2-5a42-4691-b1a7-97a6f7a17c87" />
 
 •	Successful ping between PCs in different VLANs after routing<br>
+
+
+
 •	Successful ping between PCs in the same VLAN<br>
 
 <img width="1917" height="1079" alt="Screenshot 2026-02-04 082556" src="https://github.com/user-attachments/assets/d69e3019-3a5f-4a7c-b657-e3c0d329e902" />
